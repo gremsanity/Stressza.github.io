@@ -1,5 +1,5 @@
 # About Us
-[Home]()
+[Home](../index.md)
 ## Team Members
 <b>
 Camille Alemania <br>
